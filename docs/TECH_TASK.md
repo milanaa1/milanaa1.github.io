@@ -15,9 +15,9 @@
 
 **GitHub-login:** [milanaa1]
 
-**Ссылка на GitHub Pages:** [ВСТАВЬТЕ ССЫЛКУ]
+**Ссылка на GitHub Pages:** [https://milanaa1.github.io/]
 
-**Ссылка на основной pull request:** [ВСТАВЬТЕ ССЫЛКУ]
+**Ссылка на основной pull request:** [https://github.com/milanaa1/milanaa1.github.io/pull/1]
 
 ---
 
